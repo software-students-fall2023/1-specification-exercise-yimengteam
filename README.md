@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Team member 1: Richard Fu (Github Profile: RichardFuuu)
+
 Team member 2: Alex Xiang (Github Profile: AlexXiang604)
 
 ## Stakeholders
