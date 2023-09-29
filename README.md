@@ -8,6 +8,8 @@ Team member 1: Richard Fu (Github Profile: RichardFuuu)
 
 Team member 2: Alex Xiang (Github Profile: AlexXiang604)
 
+Team member 3: Brad Yin (Github Profile: BREADLuVER)
+
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
