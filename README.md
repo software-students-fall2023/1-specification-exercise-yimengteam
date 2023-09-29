@@ -26,6 +26,8 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 - User story 4: As a college student, I want to write reviews for the college consulting agency that helped me when I was in high school.
 - User story 5: As a college consulting agency, I want to make our past students' college admission statistics public to people who would potentially be our clients.
 - User story 6: As the parant of a high school student, I want to help my kid filter good consulting agencies that offer affordable consultation prices.
+- User story 7: As a college consulting agency, I want to access metrics and analytics to understand our performance and reach on the platform.
+- User story 8: As a high school student, I want the option to attend virtual workshops or webinars hosted by counselors, providing general advice before committing to one-on-one sessions.
 
 ## Activity Diagrams
 
