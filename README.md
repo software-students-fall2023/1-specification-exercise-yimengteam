@@ -10,6 +10,8 @@ Team member 2: Alex Xiang (Github Profile: AlexXiang604)
 
 Team member 3: Brad Yin (Github Profile: BREADLuVER)
 
+Team member 4: Yimeng Duan(Github Profile:YimengDuan2002 )
+
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
@@ -26,6 +28,9 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 - User story 4: As a college student, I want to write reviews for the college consulting agency that helped me when I was in high school.
 - User story 5: As a college consulting agency, I want to make our past students' college admission statistics public to people who would potentially be our clients.
 - User story 6: As the parant of a high school student, I want to help my kid filter good consulting agencies that offer affordable consultation prices.
+- User story 7: As a consulting agency, I want to know what our competitors offer and the rank of our business in the market  in order to adjust the price of our services to a reasonable and attractive level. 
+- User story 8: As a consulting agency, I want to know what kind of services the students and parents are looking for.
+
 
 ## Activity Diagrams
 
