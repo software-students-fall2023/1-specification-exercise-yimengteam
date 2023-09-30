@@ -22,7 +22,9 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+- User story 1: As a high school student, I want to find a college counselor so that he/she can help me to navigate the college application process smoothly.
+- User story 2: As a high school student, I want to be able to determine if a college counselor is reliable so that I do not waste my money on someone or an agency that is not experienced.
+(Project 1 Activity UML Diagram-Student.ext)
 
 ## Clickable Prototype
 
