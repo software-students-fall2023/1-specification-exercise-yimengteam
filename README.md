@@ -39,7 +39,11 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ![User story 1 & 3](https://github.com/software-students-fall2023/1-specification-exercise-yimengteam/blob/main/Project%201%20Activity%20UML%20Diagram-Student.jpg)
 
-![User story](./Project 1 Activity UML Diagram-Counselor.jpg)
+### User Case 2 & 5
+- User story 2: As a college counselor/college consulting agency, we want to connect with high school students so that we can help them plan and prepare for his/her personal statement's storyline in their college application.
+- User story 5: As a college consulting agency, I want to make our past students' college admission statistics public to people who would potentially be our clients.
+
+![User story 2 & 5](https://github.com/software-students-fall2023/1-specification-exercise-yimengteam/blob/main/Project%201%20Activity%20UML%20Diagram-Counselor.jpg)
 
 ## Clickable Prototype
 
