@@ -34,7 +34,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Activity Diagrams
 
-![User story 1 & 3](Project 1 Activity UML Diagram-Student.jpg)
+![User story 1 & 3](https://github.com/software-students-fall2023/1-specification-exercise-yimengteam/blob/main/Project%201%20Activity%20UML%20Diagram-Student.jpg)
 
 ## Clickable Prototype
 
