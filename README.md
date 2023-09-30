@@ -4,13 +4,13 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Team member 1: Richard Fu (Github Profile: RichardFuuu)
+- Team member 1: Richard Fu (Github Profile: RichardFuuu)
 
-Team member 2: Alex Xiang (Github Profile: AlexXiang604)
+- Team member 2: Alex Xiang (Github Profile: AlexXiang604)
 
-Team member 3: Brad Yin (Github Profile: BREADLuVER)
+- Team member 3: Brad Yin (Github Profile: BREADLuVER)
 
-Team member 4: Yimeng Duan(Github Profile:YimengDuan2002 )
+- Team member 4: Yimeng Duan(Github Profile:YimengDuan2002 )
 
 ## Stakeholders
 
