@@ -36,6 +36,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 ### User Case 1 & 3
 - User story 1: As a high school student, I want to find a college counselor so that he/she can help me to navigate the college application process smoothly.
 - User story 3: As a high school student, I want to be able to determine if a college counselor is reliable so that I do not waste my money on someone or an agency that is not experienced.
+  
 ![User story 1 & 3](https://github.com/software-students-fall2023/1-specification-exercise-yimengteam/blob/main/Project%201%20Activity%20UML%20Diagram-Student.jpg)
 
 ## Clickable Prototype
