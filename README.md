@@ -14,7 +14,27 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Stakeholder 1: High school students (Interviewee: Yun Zhang, Richard's cousin)
+- Goals/Needs:
+1. Need to find trustworthy college consulting companies or individuals. 
+2. Desire to maximize the potential of getting into a suitable college. 
+3. Seek reliable information about different consultants to make informed decisions.
+
+- Problems/Frustrations:
+1. Overwhelmed by the numerous college consulting companies reaching out to them. 
+2. Difficulty in determining which consulting company is trustworthy. 
+3. Time-consuming research process to vet each consulting company. 
+4. Anxiety due to increasing competitiveness in college admissions. 
+5. Concerns about scandals and untrustworthy practices in the college admission process.
+
+Stakeholder 2: College consulting agencies (Interviewee: Lei Sun, Manager at New Oriental Education Group)
+- Goals/Needs:
+1. Aim to attract and assure potential customers of their credibility and success rate.
+2. Desire to differentiate themselves from competitors and establish trustworthiness.
+
+- Problems/Frustrations:
+1. Need to establish credibility amidst a crowded market. 
+2. Challenges in differentiating themselves from competitors.
 
 ## Product Vision Statement
 
@@ -30,7 +50,9 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 - User story 6: As the parant of a high school student, I want to help my kid filter good consulting agencies that offer affordable consultation prices.
 - User story 7: As a consulting agency, I want to know what our competitors offer and the rank of our business in the market  in order to adjust the price of our services to a reasonable and attractive level. 
 - User story 8: As a consulting agency, I want to know what kind of services the students and parents are looking for.
-
+- User story 9: As a high school student, I want to see testimonials from past students who used a specific college consulting agency so that I can gauge the success rate and satisfaction of their services.
+- User story 10: As a high school student, I want to be able to compare different consulting agencies based on their services, prices, and success stories so that I can make an informed decision on which one to choose.
+- User story 11: As a college consulting agency, I want to receive feedback from our clients about our services so that we can continuously improve and cater to the evolving needs of students and parents.
 
 ## Activity Diagrams
 ### User Case 1 & 3
