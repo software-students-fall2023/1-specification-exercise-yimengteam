@@ -69,4 +69,4 @@ Stakeholder 2: College consulting agencies (Interviewee: Lei Sun, Manager at New
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/file/Syh8cJhHHqYYPbLMJmgS7s/CollegePro-Prototype?type=design&node-id=0-1&mode=design&t=MWmACLBX2fU8Sy6x-0
