@@ -68,5 +68,4 @@ Stakeholder 2: College consulting agencies (Interviewee: Lei Sun, Manager at New
 ![User story 2 & 5](https://github.com/software-students-fall2023/1-specification-exercise-yimengteam/blob/main/Project%201%20Activity%20UML%20Diagram-Counselor.jpg)
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+link: https://www.figma.com/proto/Syh8cJhHHqYYPbLMJmgS7s?node-id=0-1&mode=design&t=VRijFkNl8UxNkE2Y-6
