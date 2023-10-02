@@ -69,4 +69,4 @@ Stakeholder 2: College consulting agencies (Interviewee: Lei Sun, Manager at New
 
 ## Clickable Prototype
 
-https://www.figma.com/file/Syh8cJhHHqYYPbLMJmgS7s/CollegePro-Prototype?type=design&node-id=0-1&mode=design&t=MWmACLBX2fU8Sy6x-0
+https://www.figma.com/proto/Syh8cJhHHqYYPbLMJmgS7s/CollegePro-Prototype?type=design&node-id=443-3&t=NNOWDFJxP8iP9T1p-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=443%3A3&show-proto-sidebar=1
